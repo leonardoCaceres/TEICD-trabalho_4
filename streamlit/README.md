@@ -1,6 +1,3 @@
-# Welcome to Streamlit!
+# Streamlit!
 
-Edit `/streamlit_app.py` to customize this app to your heart's desire :heart:
-
-If you have any questions, checkout our [documentation](https://docs.streamlit.io) and [community
-forums](https://discuss.streamlit.io).
+Não consegui adicionar o caminho, endereço, pelo Streamlit então entre nesse [link](https://share.streamlit.io/leonardocaceres/streamlit-example) para observar o dashboard.
